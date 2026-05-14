@@ -1,5 +1,7 @@
 # <div align="center">🚀 **Full Stack Developer & DevOps Educator**</div>
 
+<img src="https://raw.githubusercontent.com/upasanatailor/AWS_Terraform_Projects/refs/heads/main/Images/logo.jpeg" alt="CloudKaro AWS Terraform Projects Logo" width="100%"/>
+
 <div align="center">
   
 [![Upasana Tailor | AWS | Terraform | DevOps | Full Stack | LangChain](https://img.shields.io/badge/Full_Stack_Developer_%7C_DevOps_Educator_%7C_AWS_%7C_Terraform_%7C_AI-0A0A0A?style=for-the-badge&logo=amazonaws&logoColor=white)](https://github.com/upasanatailor)
