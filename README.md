@@ -1,101 +1,144 @@
-# <div align="center">🚀 **Full Stack Developer & DevOps Educator**</div>
+# Hi there 👋 I'm Upasana Tailor
 
-<img src="https://raw.githubusercontent.com/upasanatailor/AWS_Terraform_Projects/refs/heads/main/Images/logo.jpeg" alt="CloudKaro AWS Terraform Projects Logo" width="100%"/>
+### DevOps Engineer | Full-Stack Developer | Cloud & Automation Enthusiast
 
-<div align="center">
-  
-[![Upasana Tailor | AWS | Terraform | DevOps | Full Stack | LangChain](https://img.shields.io/badge/Full_Stack_Developer_%7C_DevOps_Educator_%7C_AWS_%7C_Terraform_%7C_AI-0A0A0A?style=for-the-badge&logo=amazonaws&logoColor=white)](https://github.com/upasanatailor)
+I’m a **Software Engineer transitioning into DevOps**, with **3+ years of experience** building scalable applications and automating development workflows.
 
-</div>
+Currently working at **DCI (Digital Career Institute, Germany)**, where I design CI/CD pipelines, automate deployment environments, and mentor aspiring developers in cloud-native technologies.
 
-<div align="center">
-  <p><strong>Hey there! I'm Upasana!</strong> 👋 I'm a Software Engineer with <strong>3+ years of experience</strong> in Full Stack Development, now pivoting into the world of <strong>DevOps, Platform Engineering, and AI</strong>. I'm on a mission to simplify cloud technologies for the next generation of engineers through my teaching and YouTube content.</p>
-</div>
+My passion lies in:
 
-<div align="center">
-
-![Innovating, Automating, and Teaching!](https://img.shields.io/badge/Innovate%20%7C%20Automate%20%7C%20Educate-00BFFF?style=for-the-badge&logo=youtube&logoColor=white)
-
-<br>
-
-## 💫 About Me - Transitioning to Cloud Excellence
-
-# <div align="center">🚀 **Upasana Tailor**</div>
-## <div align="center">**Full-Stack Developer & Aspiring DevOps Engineer**</div>
-
-<div align="center">
-  
-[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](#)
-[![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)](#)
-[![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](#)
-[![B2 German](https://img.shields.io/badge/Language-B2%20German-green?style=for-the-badge)](#)
-
-</div>
-
-<div align="center">
-  [cite_start]<p><strong>Software Engineer with over 3 years of experience</strong> [cite: 4] transitioning into DevOps. [cite_start]Expertise in building scalable applications and currently specializing in <strong>CI/CD automation, Infrastructure as Code (Terraform), and AWS Cloud operations</strong>[cite: 5]. [cite_start]Passionate about optimizing system reliability in agile, international environments[cite: 6].</p>
-</div>
+- ⚙️ Automating infrastructure and deployment pipelines  
+- ☁️ Building scalable cloud solutions on AWS  
+- 🚀 Improving development velocity through DevOps best practices  
+- 🐳 Containerization and orchestration with Docker & Kubernetes  
+- 📈 Monitoring, reliability, and system optimization  
 
 ---
 
-### ⚡ Tech Stack & Tools
+# 🚀 Tech Stack
 
-#### **DevOps, Automation & Cloud**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,gitlab,bash,githubactions" alt="devops-stack" />
-</p>
+### DevOps & Cloud
 
-#### **Backend & Programming**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,nodejs,express,cs,mysql,postman" alt="backend-stack" />
-</p>
-
-#### **Frontend & UI**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" alt="frontend-stack" />
-</p>
-
----
-
-### 🏗️ Featured DevOps Projects
-
-#### [cite_start]🌐 **AWS Infrastructure as Code** [cite: 39]
-* [cite_start]**Provisioned** a scalable AWS environment (EC2, S3, RDS) using **Terraform** and CloudFormation[cite: 40].
-* [cite_start]**Implemented** a GitLab CI/CD pipeline for automated containerization (Docker) and deployment to **AWS EKS**[cite: 41].
-* [cite_start]**Monitoring:** Set up dashboards using **Datadog** to track system performance[cite: 42].
-
-#### [cite_start]🛠️ **Automated Student Environments** [cite: 33]
-* [cite_start]Automated student project deployment environments using **Docker and Kubernetes**, ensuring consistent runner environments at DCI[cite: 33].
-* [cite_start]Designed and managed **CI/CD pipelines** for internal tracking tools, integrating automated testing[cite: 34].
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![CloudFormation](https://img.shields.io/badge/AWS_CloudFormation-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Amazon EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![Amazon RDS](https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+![Amazon EKS](https://img.shields.io/badge/EKS-FF9900?style=for-the-badge&logo=amazoneks&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
 
 ---
 
-### 🎓 Experience & Education
+### Programming & Development
 
-* **Software Engineer (DevOps & Full Stack)** | [cite_start]DCI Digital Career Institute, Germany (2022 - Feb 2026) [cite: 30, 31, 32]
-    * [cite_start]Mentored 100+ students on Git and cloud-based deployment strategies.
-* **Project Engineer (IoT)** | [cite_start]CDAC, India [cite: 36]
-    * [cite_start]Developed Python scripts to automate data exchange between REST APIs and backend servers[cite: 37].
-    * [cite_start]Optimized **Embedded Linux** distributions for IoT gateways[cite: 37].
-* **B.Tech in Electronics & Communication** | [cite_start]Rajasthan Technical University [cite: 14]
-
----
-
-### 📜 Certifications & Languages
-* [cite_start]**Certifications:** Train the Trainer [cite: 44][cite_start], IBM Data Science [cite: 47][cite_start], B2 Telc Certified German[cite: 46].
-* [cite_start]**Languages:** English (Fluent) [cite: 28][cite_start], German (B2 Certified)[cite: 29].
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C Sharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
 ---
 
-### 🤝 Connect With Me
-<div align="center">
+### Tools & Workflow
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/upasana-tailor-b24539152/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:upasanatailor90@gmail.com)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash_Scripting-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-</div>
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=upasanatailor&show_icons=true&theme=tokyonight" alt="Stats" />
-</div>
+# 💼 Professional Experience
+
+## Software Engineer – DevOps & Full Stack  
+**DCI (Digital Career Institute GmbH)**  
+*2022 – Feb 2026*
+
+- Automated student project deployment environments using **Docker & Kubernetes**
+- Designed and maintained **CI/CD pipelines** for internal tools
+- Integrated automated testing and deployment workflows
+- Mentored **100+ students** on Git, cloud deployment, and DevOps practices
+- Promoted DevOps culture across development teams
+
+---
+
+## Software Engineer – IoT & Backend Automation  
+**CDAC (Centre for Development of Advanced Computing), India**
+
+- Built Python scripts to automate **REST API ↔ backend server** communication
+- Reduced manual troubleshooting through automation
+- Worked on **Embedded Linux** systems for IoT gateways
+- Assisted with kernel configuration and driver integration
+- Used **Git, Postman, and MySQL** for development and testing
+
+---
+
+# 🔥 Featured DevOps Project
+
+## AWS Infrastructure as Code & CI/CD Automation
+
+Designed and deployed a scalable cloud environment using modern DevOps tools.
+
+### Highlights
+
+- Provisioned AWS infrastructure using **Terraform + CloudFormation**
+- Created automated **GitLab CI/CD pipelines**
+- Containerized applications with **Docker**
+- Deployed workloads to **AWS EKS (Kubernetes)**
+- Configured **Datadog monitoring dashboards**
+
+---
+
+# 🎓 Education
+
+**B.Tech in Electronics & Communication**  
+Rajasthan Technical University
+
+---
+
+# 📜 Certifications
+
+- IBM Data Science Certificate (Coursera)
+- Train the Trainer Certificate
+- TELC German Language Certification (B2)
+- Datenschutz bei DCI
+
+---
+
+# 🌍 Languages
+
+- English (Fluent)
+- German (B2)
+
+---
+
+# 📫 Connect With Me
+
+- LinkedIn: **Add your LinkedIn URL here**
+- Email: **upasanatailor90@gmail.com**
+
+---
+
+# ✨ About Me
+
+I enjoy solving infrastructure challenges, automating repetitive tasks, and building reliable systems that help teams move faster.
+
+Outside tech, I enjoy:
+
+🎵 Music  
+🚴 Cycling  
+✈️ Travelling  
+
+---
+
+⭐ **Currently seeking DevOps / Cloud Engineer opportunities in Germany and Europe**
