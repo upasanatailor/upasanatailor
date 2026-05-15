@@ -1,5 +1,5 @@
 # Hi there 👋 I'm Upasana Tailor
-<img src="https://github.com/upasanatailor/DevOps_Projects/blob/main/Images/banner.png" alt="DevOps Projects Logo" width="100%"/>
+<img src="https://github.com/upasanatailor/DevOps_Projects/blob/main/Images/logo2.png" alt="DevOps Projects Logo" width="100%"/>
 
 
 ### DevOps Engineer | Full-Stack Developer | Cloud & Automation Enthusiast
