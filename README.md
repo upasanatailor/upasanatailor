@@ -38,7 +38,7 @@ I am a dedicated Full-Stack Engineer and Technical Instructor with a deep backgr
 ### 1. Agentic AI & Generative Workflows (LangChain / LangGraph)
 *An exploratory and production-focused suite of implementations involving LLM orchestration, vector databases, and multi-agent system state management.*
 * **Technologies:** Python, LangChain, LangGraph, RAG, OpenAI API, Vector DBs.
-- 🔗 *[Link to your specific AI / LLM Repository]* – Brief summary of what it does (e.g., *Built a multi-agent workflow that processes unstructured documentation into a queryable RAG vector database.*)
+- 🔗 *[ AI / LLM Repository](https://github.com/upasanatailor/bedrock-langgraph-rag)]* – Brief summary of what it does (e.g., *Built a multi-agent workflow that processes unstructured documentation into a queryable RAG vector database.*)
 
 ### 2. Scalable Cloud-Native Full-Stack Application
 *A modern multi-tier web application built to showcase orchestration and cloud deployment principles.*
