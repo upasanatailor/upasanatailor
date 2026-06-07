@@ -43,12 +43,12 @@ I am a dedicated Full-Stack Engineer and Technical Instructor with a deep backgr
 ### 2. Scalable Cloud-Native Full-Stack Application
 *A modern multi-tier web application built to showcase orchestration and cloud deployment principles.*
 * **Technologies:** TypeScript, React.js, Node.js, Docker, Kubernetes, PostgreSQL.
-- 🔗 *[Link to your top Full-Stack Repo]* – Brief summary (e.g., *Containerized full-stack architecture running inside a local Kubernetes cluster, deploying automated CI/CD configurations.*)
+- 🔗 *[[cloud terraform Repo](https://github.com/upasanatailor/AWS_Terraform_Projects)]* – Brief summary (e.g., *Containerized full-stack architecture running inside a local Kubernetes cluster, deploying automated CI/CD configurations.*)
 
 ### 3. REST API & Backend Service Architecture
 *High-performance backend API service emphasizing robust security, proper error tracking, and predictable state management.*
 * **Technologies:** Node.js, Express.js, MongoDB/PostgreSQL, Jest (Testing), Postman.
-- 🔗 *[Link to a prominent API Repo]* – Brief summary (e.g., *Designed a relational DB-backed RESTful service incorporating data protection parameters and automated route validation testing.*)
+- 🔗 *[[ API Repo](https://github.com/upasanatailor/BlindSide_Project)]* – Brief summary (e.g., *Designed a relational DB-backed RESTful service incorporating data protection parameters and automated route validation testing.*)
 
 ---
 
