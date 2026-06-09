@@ -9,7 +9,7 @@
 > **Cloud-Native Developer & Technical Instructor specializing in Scalable Web Architectures & AI Frameworks.**
 
 📍 Landsberg am Lech, Germany  
-💼 [LinkedIn](https://www.linkedin.com/in/upasana-tailor-b24539152/) | ✉️ upasanatailor90@gmail.com | 🌐 [GitHub](https://github.com/upasanatailor)
+💼 [LinkedIn]([https://www.linkedin.com/in/upasana-tailor-b24539152/](https://www.linkedin.com/in/upasana-tailor-b24539152/)) | ✉️ upasanatailor90@gmail.com | 🌐 [GitHub](https://github.com/upasanatailor)
 
 ---
 
