@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Upasana Tailor
 <div style="border-radius: 50">
-<img src="![Upasana's Banner](https://raw.githubusercontent.com/upasanatailor/upasanatailor/main/assets/your-banner-name.png)/>
+<img src = "github_banner.png"  alt = "upasana tailor profile banner"/>
 </div>
 
 
