@@ -4,7 +4,7 @@
 </div>
 
 
-# Upasana Tailor | Frontend & Full-Stack Engineer
+# Full-Stack  | Cloud | AI Engineer
 
 > **Cloud-Native Developer & Technical Instructor specializing in Scalable Web Architectures & AI Frameworks.**
 
