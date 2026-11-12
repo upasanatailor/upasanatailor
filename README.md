@@ -34,14 +34,23 @@ My hands-on labs and projects focus on dissecting phishing campaigns, analyzing 
 | :--- | :--- |
 
 | **Security Frameworks & Methodologies:** MITRE ATT&CK Framework, Cyber Kill Chain, Incident Response Lifecycle (NIST/SANS).
+
 | **Security Operations & SIEM:** Splunk, ELK Stack, TryHackMe SOC Level 1 Labs, Log Analysis & Alert Triage.
+
 | **Threat Analysis & Forensics:** Wireshark, Packet Analysis, YARA Rules, CyberChef, Phishing & Email Header Analysis.
+
 | **Cloud & Development:** AWS, Python, JavaScript/TypeScript, Linux/Ubuntu Administration.
+
 | **Certifications:** CompTIA Security+, Google Cybersecurity Professional Certificate.
-| **Frontend** | React.js, Redux, TypeScript, Next.js, Material UI, Tailwind CSS, Styled Components |
-| **Backend & APIs** | Node.js, Express.js, Python, RESTful API Design & Integration |
-| **AI Frameworks** | LangChain, LangGraph, Retrieval-Augmented Generation (RAG), Amazon Bedrock |
-| **DevOps & Cloud** | AWS Fundamentals, Kubernetes (K8s), Docker, Terraform, Vercel, Linux, CI/CD, Git |
+
+| **Frontend** | React.js, Redux, TypeScript, Next.js, Material UI, Tailwind CSS, Styled Components 
+
+| **Backend & APIs** | Node.js, Express.js, Python, RESTful API Design & Integration 
+
+| **AI Frameworks** | LangChain, LangGraph, Retrieval-Augmented Generation (RAG), Amazon Bedrock 
+
+| **DevOps & Cloud** | AWS Fundamentals, Kubernetes (K8s), Docker, Terraform, Vercel, Linux, CI/CD, Git 
+
 | **Databases** | PostgreSQL, MongoDB, MySQL |
 
 ---
