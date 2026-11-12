@@ -4,7 +4,7 @@
 </div>
 
 
-# Full-Stack  | Cloud | AI Engineer
+# Cybersecurity Professional 🛡️ (CompTIA Security+) | Incident Response 🔍 Threat Intelligence & Log Analysis
 
 > **Cloud-Native Developer & Technical Instructor specializing in Scalable Web Architectures & AI Frameworks.**
 
@@ -14,9 +14,16 @@
 ---
 
 ## 🚀 About Me
-I am a dedicated Full-Stack Engineer and Technical Instructor with a deep background in designing, building, and deploying modern web applications and cloud solutions. Having mentored over 100+ developers and built production-ready systems, I thrive on creating clean, maintainable code, optimizing cloud-native workflows, and implementing intelligent AI automation.
+Hello! I am a **Cybersecurity Professional & Security Analyst** with a strong foundation in full-stack software engineering. Transitioning into **Security Operations (SecOps)**, **Incident Response (IR)**, and **Threat Analysis**, I actively complete hands-on labs (including **TryHackMe SOC Level 1**). 
 
-- 🛠️ **Current Focus:** Building agentic AI workflows and integrating scalable cloud observability practices.
+My work focuses on investigating security anomalies through structured frameworks like the **Cyber Kill Chain** and mapping adversary behaviors to the **MITRE ATT&CK** matrix.
+
+My hands-on labs and projects focus on dissecting phishing campaigns, analyzing malware artifacts, reviewing SIEM logs, and applying security frameworks to mitigate modern cyber threats.
+
+- 🛠️ **Current Focus:** Building and documenting practical security labs focusing on **Phishing Analysis** and **Incident Response Playbooks**.
+* Actively pursuing roles as a **SOC Analyst**, **Junior IT Security Consultant**, or **SecOps Engineer**.
+* Deepening expertise in digital forensics, network security monitoring, and cloud security architecture.
+
 - 🗣️ **Languages:** English (C1), German (B2 Telc Certified), Hindi (Native).
 
 ---
@@ -25,6 +32,12 @@ I am a dedicated Full-Stack Engineer and Technical Instructor with a deep backgr
 
 | Category | Technologies |
 | :--- | :--- |
+
+| **Security Frameworks & Methodologies:** MITRE ATT&CK Framework, Cyber Kill Chain, Incident Response Lifecycle (NIST/SANS).
+| **Security Operations & SIEM:** Splunk, ELK Stack, TryHackMe SOC Level 1 Labs, Log Analysis & Alert Triage.
+| **Threat Analysis & Forensics:** Wireshark, Packet Analysis, YARA Rules, CyberChef, Phishing & Email Header Analysis.
+| **Cloud & Development:** AWS, Python, JavaScript/TypeScript, Linux/Ubuntu Administration.
+| **Certifications:** CompTIA Security+, Google Cybersecurity Professional Certificate.
 | **Frontend** | React.js, Redux, TypeScript, Next.js, Material UI, Tailwind CSS, Styled Components |
 | **Backend & APIs** | Node.js, Express.js, Python, RESTful API Design & Integration |
 | **AI Frameworks** | LangChain, LangGraph, Retrieval-Augmented Generation (RAG), Amazon Bedrock |
@@ -70,4 +83,4 @@ I am a dedicated Full-Stack Engineer and Technical Instructor with a deep backgr
 * **B2 Telc Certified** – German Language Proficiency
 
 ---
-💡 *Feel free to explore my repositories or reach out for collaborations regarding Cloud-Native Architectures, Full-Stack applications, or AI Engineering!*
+💡 *Feel free to explore my repositories or reach out for collaborations regarding CyberSecurity,  Cloud-Native Architectures, Full-Stack applications, or AI Engineering!*
