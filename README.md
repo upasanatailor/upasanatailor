@@ -57,6 +57,14 @@ My hands-on labs and projects focus on dissecting phishing campaigns, analyzing 
 
 ## 📂 Key Projects & Repositories
 
+### 🛡️ Key Projects & Repositories
+
+1. **Cybersecurity & Incident Response Portfolio**
+   A comprehensive portfolio repository consolidating my practical hands-on labs, threat analyses, and security investigations. This hub showcases structured workflows in alert triage, log analysis, and adversary mapping.
+
+   * **Technologies & Frameworks:** Splunk, Wireshark, YARA Rules, CyberChef, MITRE ATT&CK Framework, Cyber Kill Chain, TryHackMe SOC Level 1.
+   * **Artifacts:** [ 🔗 View Security Projects Repository ](https://github.com/upasanatailor/CyberSecurityProjects) — *A structured collection of documented security labs, including phishing email investigations, IOC extractions, and simulated incident response exercises.*
+
 ### 1. Agentic AI & Generative Workflows (LangChain / LangGraph)
 *An exploratory and production-focused suite of implementations involving LLM orchestration, vector databases, and multi-agent system state management.*
 * **Technologies:** Python, LangChain, LangGraph, RAG, OpenAI API, Vector DBs.
